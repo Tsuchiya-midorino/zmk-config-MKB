@@ -65,19 +65,19 @@ layers:
   - F1
   - F2
   - F3
-  - {t: ▽, type: trans}
+  - VOLUME UP
   - ASTRK
   - '1'
   - '2'
   - '3'
   - PLUS
-  - {t: ▽, type: trans}
+  - Ctl+DOWN
   - Gui+V
   - APOS
   - F4
   - F5
   - F6
-  - {t: ▽, type: trans}
+  - VOLUME DOWN
   - AT
   - '4'
   - '5'
@@ -95,8 +95,8 @@ layers:
   - '8'
   - '9'
   - PERCENT
-  - {t: ▽, type: trans}
-  - Gui+Sft+DELETE
+  - Gui+Sft+5
+  - Alt+Gui+ESCAPE
   - DOLLAR
   - LALT
   - {t: F11, type: held}
@@ -105,7 +105,7 @@ layers:
   - '0'
   - PERIOD
   - SLASH
-  - {t: ▽, type: trans}
+  - Gui+Sft+4
   - LEFT
   - UP
   - SPACE
