@@ -41,7 +41,7 @@ layers:
   - LEFT CONTROL
   - LALT
   - {t: BACKSPACE, h: NUM}
-  - {t: LANG1, h: Arr}
+  - {t: LANGUAGE 1, h: Arr}
   - {t: ENTER, h: BT}
   - {t: SPACE, h: NUM}
   - LANGUAGE 2
