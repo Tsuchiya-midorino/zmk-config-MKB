@@ -41,8 +41,8 @@ layers:
   - LEFT CONTROL
   - LALT
   - {t: BACKSPACE, h: Num}
-  - {t: LANG1, h: Fnc}
-  - {t: ENTER, h: Fnc}
+  - {t: LANG1, h: NUM}
+  - {t: ENTER, h: NUM}
   - {t: SPACE, h: Num}
   - Gui+Sft+4
   - DOWN
@@ -59,52 +59,52 @@ layers:
   - END
   - A
   - B
-  Fnc:
-  - GRAVE
-  - PG UP
-  - UP
-  - PG DN
-  - HOME
-  - {t: ▽, type: trans}
+  NUM:
+  - Gui+C
+  - TILDE
   - F1
   - F2
   - F3
+  - {t: ▽, type: trans}
+  - ASTRK
+  - '1'
+  - '2'
+  - '3'
+  - PLUS
+  - {t: ▽, type: trans}
+  - Gui+V
+  - APOS
   - F4
   - F5
-  - {t: ▽, type: trans}
-  - '&tog_ls'
-  - LEFT
-  - DOWN
-  - RIGHT
-  - END
-  - {t: ▽, type: trans}
   - F6
+  - {t: ▽, type: trans}
+  - AT
+  - '4'
+  - '5'
+  - '6'
+  - MINUS
+  - {t: ▽, type: trans}
+  - Gui+X
+  - DOUBLE QUOTES
   - F7
   - F8
   - F9
   - F10
+  - HASH
+  - '7'
+  - '8'
+  - '9'
+  - PERCENT
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - BKSP
-  - DEL
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - F11
-  - F12
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Gui+Sft+DELETE
+  - DOLLAR
   - LALT
-  - ENTER
-  - {t: ENTER, type: held}
-  - ENTER
-  - ENTER
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - F11
+  - {t: F12, type: held}
+  - UNDER
+  - '0'
+  - PERIOD
+  - SLASH
   - {t: ▽, type: trans}
   - LEFT
   - UP
