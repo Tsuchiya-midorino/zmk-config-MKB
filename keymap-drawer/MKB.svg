@@ -392,6 +392,38 @@ path.combo { stroke: #7f7f7f; }
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">B</text>
 </g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="714" y="71" width="28" height="26" class="combo"/>
+<text x="728" y="84" class="combo tap">
+<tspan x="728" dy="-0.6em">&amp;mkp</tspan><tspan x="728" dy="1.2em">LCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="770" y="71" width="28" height="26" class="combo"/>
+<text x="784" y="84" class="combo tap">
+<tspan x="784" dy="-0.6em">&amp;mkp</tspan><tspan x="784" dy="1.2em">RCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-2">
+<path d="M756,84 l-37,0" class="combo"/>
+<path d="M756,84 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="742" y="71" width="28" height="26" class="combo"/>
+<text x="756" y="84" class="combo tap">
+<tspan x="756" dy="-0.6em">&amp;mkp</tspan><tspan x="756" dy="1.2em">MCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="658" y="71" width="28" height="26" class="combo"/>
+<text x="672" y="84" class="combo tap">
+<tspan x="672" dy="-0.6em">&amp;mkp</tspan><tspan x="672" dy="1.2em">MB4</tspan>
+</text>
+</g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="826" y="71" width="28" height="26" class="combo"/>
+<text x="840" y="84" class="combo tap">
+<tspan x="840" dy="-0.6em">&amp;mkp</tspan><tspan x="840" dy="1.2em">MB5</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 322)" class="layer-NUM">
@@ -646,6 +678,38 @@ path.combo { stroke: #7f7f7f; }
 <g transform="translate(734, 196)" class="key keypos-57">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">B</text>
+</g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="714" y="71" width="28" height="26" class="combo"/>
+<text x="728" y="84" class="combo tap">
+<tspan x="728" dy="-0.6em">&amp;mkp</tspan><tspan x="728" dy="1.2em">LCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="770" y="71" width="28" height="26" class="combo"/>
+<text x="784" y="84" class="combo tap">
+<tspan x="784" dy="-0.6em">&amp;mkp</tspan><tspan x="784" dy="1.2em">RCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-2">
+<path d="M756,84 l-37,0" class="combo"/>
+<path d="M756,84 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="742" y="71" width="28" height="26" class="combo"/>
+<text x="756" y="84" class="combo tap">
+<tspan x="756" dy="-0.6em">&amp;mkp</tspan><tspan x="756" dy="1.2em">MCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="658" y="71" width="28" height="26" class="combo"/>
+<text x="672" y="84" class="combo tap">
+<tspan x="672" dy="-0.6em">&amp;mkp</tspan><tspan x="672" dy="1.2em">MB4</tspan>
+</text>
+</g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="826" y="71" width="28" height="26" class="combo"/>
+<text x="840" y="84" class="combo tap">
+<tspan x="840" dy="-0.6em">&amp;mkp</tspan><tspan x="840" dy="1.2em">MB5</tspan>
+</text>
 </g>
 </g>
 </g>
@@ -909,6 +973,38 @@ path.combo { stroke: #7f7f7f; }
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">B</text>
 </g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="714" y="71" width="28" height="26" class="combo"/>
+<text x="728" y="84" class="combo tap">
+<tspan x="728" dy="-0.6em">&amp;mkp</tspan><tspan x="728" dy="1.2em">LCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="770" y="71" width="28" height="26" class="combo"/>
+<text x="784" y="84" class="combo tap">
+<tspan x="784" dy="-0.6em">&amp;mkp</tspan><tspan x="784" dy="1.2em">RCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-2">
+<path d="M756,84 l-37,0" class="combo"/>
+<path d="M756,84 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="742" y="71" width="28" height="26" class="combo"/>
+<text x="756" y="84" class="combo tap">
+<tspan x="756" dy="-0.6em">&amp;mkp</tspan><tspan x="756" dy="1.2em">MCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="658" y="71" width="28" height="26" class="combo"/>
+<text x="672" y="84" class="combo tap">
+<tspan x="672" dy="-0.6em">&amp;mkp</tspan><tspan x="672" dy="1.2em">MB4</tspan>
+</text>
+</g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="826" y="71" width="28" height="26" class="combo"/>
+<text x="840" y="84" class="combo tap">
+<tspan x="840" dy="-0.6em">&amp;mkp</tspan><tspan x="840" dy="1.2em">MB5</tspan>
+</text>
+</g>
 </g>
 </g>
 <g transform="translate(30, 966)" class="layer-Mouse">
@@ -1155,6 +1251,38 @@ path.combo { stroke: #7f7f7f; }
 <g transform="translate(734, 196)" class="key keypos-57">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">B</text>
+</g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="714" y="71" width="28" height="26" class="combo"/>
+<text x="728" y="84" class="combo tap">
+<tspan x="728" dy="-0.6em">&amp;mkp</tspan><tspan x="728" dy="1.2em">LCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="770" y="71" width="28" height="26" class="combo"/>
+<text x="784" y="84" class="combo tap">
+<tspan x="784" dy="-0.6em">&amp;mkp</tspan><tspan x="784" dy="1.2em">RCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-2">
+<path d="M756,84 l-37,0" class="combo"/>
+<path d="M756,84 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="742" y="71" width="28" height="26" class="combo"/>
+<text x="756" y="84" class="combo tap">
+<tspan x="756" dy="-0.6em">&amp;mkp</tspan><tspan x="756" dy="1.2em">MCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="658" y="71" width="28" height="26" class="combo"/>
+<text x="672" y="84" class="combo tap">
+<tspan x="672" dy="-0.6em">&amp;mkp</tspan><tspan x="672" dy="1.2em">MB4</tspan>
+</text>
+</g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="826" y="71" width="28" height="26" class="combo"/>
+<text x="840" y="84" class="combo tap">
+<tspan x="840" dy="-0.6em">&amp;mkp</tspan><tspan x="840" dy="1.2em">MB5</tspan>
+</text>
 </g>
 </g>
 </g>
@@ -1406,6 +1534,38 @@ path.combo { stroke: #7f7f7f; }
 <g transform="translate(734, 196)" class="key keypos-57">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">B</text>
+</g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="714" y="71" width="28" height="26" class="combo"/>
+<text x="728" y="84" class="combo tap">
+<tspan x="728" dy="-0.6em">&amp;mkp</tspan><tspan x="728" dy="1.2em">LCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="770" y="71" width="28" height="26" class="combo"/>
+<text x="784" y="84" class="combo tap">
+<tspan x="784" dy="-0.6em">&amp;mkp</tspan><tspan x="784" dy="1.2em">RCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-2">
+<path d="M756,84 l-37,0" class="combo"/>
+<path d="M756,84 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="742" y="71" width="28" height="26" class="combo"/>
+<text x="756" y="84" class="combo tap">
+<tspan x="756" dy="-0.6em">&amp;mkp</tspan><tspan x="756" dy="1.2em">MCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="658" y="71" width="28" height="26" class="combo"/>
+<text x="672" y="84" class="combo tap">
+<tspan x="672" dy="-0.6em">&amp;mkp</tspan><tspan x="672" dy="1.2em">MB4</tspan>
+</text>
+</g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="826" y="71" width="28" height="26" class="combo"/>
+<text x="840" y="84" class="combo tap">
+<tspan x="840" dy="-0.6em">&amp;mkp</tspan><tspan x="840" dy="1.2em">MB5</tspan>
+</text>
 </g>
 </g>
 </g>
@@ -1660,6 +1820,38 @@ path.combo { stroke: #7f7f7f; }
 <g transform="translate(734, 196)" class="key keypos-57">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key"/>
 <text x="0" y="0" class="key tap">B</text>
+</g>
+<g class="combo combopos-0">
+<rect rx="6" ry="6" x="714" y="71" width="28" height="26" class="combo"/>
+<text x="728" y="84" class="combo tap">
+<tspan x="728" dy="-0.6em">&amp;mkp</tspan><tspan x="728" dy="1.2em">LCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-1">
+<rect rx="6" ry="6" x="770" y="71" width="28" height="26" class="combo"/>
+<text x="784" y="84" class="combo tap">
+<tspan x="784" dy="-0.6em">&amp;mkp</tspan><tspan x="784" dy="1.2em">RCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-2">
+<path d="M756,84 l-37,0" class="combo"/>
+<path d="M756,84 l37,0" class="combo"/>
+<rect rx="6" ry="6" x="742" y="71" width="28" height="26" class="combo"/>
+<text x="756" y="84" class="combo tap">
+<tspan x="756" dy="-0.6em">&amp;mkp</tspan><tspan x="756" dy="1.2em">MCLK</tspan>
+</text>
+</g>
+<g class="combo combopos-3">
+<rect rx="6" ry="6" x="658" y="71" width="28" height="26" class="combo"/>
+<text x="672" y="84" class="combo tap">
+<tspan x="672" dy="-0.6em">&amp;mkp</tspan><tspan x="672" dy="1.2em">MB4</tspan>
+</text>
+</g>
+<g class="combo combopos-4">
+<rect rx="6" ry="6" x="826" y="71" width="28" height="26" class="combo"/>
+<text x="840" y="84" class="combo tap">
+<tspan x="840" dy="-0.6em">&amp;mkp</tspan><tspan x="840" dy="1.2em">MB5</tspan>
+</text>
 </g>
 </g>
 </g>
