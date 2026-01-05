@@ -41,10 +41,10 @@ layers:
   - LEFT CONTROL
   - LALT
   - {t: BACKSPACE, h: NUM}
-  - {t: GLOBE, h: Arr}
+  - {t: LANGUAGE 1, h: Arr}
   - {t: ENTER, h: BT}
   - {t: SPACE, h: NUM}
-  - Gui+Sft+4
+  - LANGUAGE 2
   - '&kakko'
   - '&kagikakko'
   - LEFT
