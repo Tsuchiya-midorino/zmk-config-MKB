@@ -57,12 +57,12 @@
         function_num1 {
             label = "NUM";
             bindings = <
-&kp LG(C)           &kp TILDE          &kp F1     &kp F2    &kp F3     &trans       &kp ASTRK  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp PLUS     &trans
-&kp LG(V)           &kp APOS           &kp F4     &kp F5    &kp F6     &trans       &kp AT     &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp MINUS    &trans
-&kp LG(X)           &kp DOUBLE_QUOTES  &kp F7     &kp F8    &kp F9     &kp F10      &kp HASH   &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp PERCENT  &trans
-&kp LG(LS(DELETE))  &kp DOLLAR         &kp LALT             &kp F11    &kp F12      &kp UNDER  &kp NUMBER_0                &kp PERIOD    &kp SLASH    &trans
-&kp LEFT            &kp UP             &kp SPACE  &kp DOWN  &kp RIGHT                          &kp HOME      &kp PG_UP     &kp ENTER     &kp PG_DN    &kp END
-                                                  &kp A                                                      &kp B
+&kp LG(C)           &kp TILDE          &kp F1     &kp F2    &kp F3     &kp C_VOLUME_UP        &kp ASTRK  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp PLUS     &kp LC(DOWN)
+&kp LG(V)           &kp APOS           &kp F4     &kp F5    &kp F6     &kp C_VOLUME_DOWN      &kp AT     &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp MINUS    &trans
+&kp LG(X)           &kp DOUBLE_QUOTES  &kp F7     &kp F8    &kp F9     &kp F10                &kp HASH   &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp PERCENT  &kp LG(LS(N5))
+&kp LA(LG(ESCAPE))  &kp DOLLAR         &kp LALT             &kp F11    &kp F12                &kp UNDER  &kp NUMBER_0                &kp PERIOD    &kp SLASH    &kp LG(LS(NUMBER_4))
+&kp LEFT            &kp UP             &kp SPACE  &kp DOWN  &kp RIGHT                                    &kp HOME      &kp PG_UP     &kp ENTER     &kp PG_DN    &kp END
+                                                  &kp A                                                                &kp B
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
