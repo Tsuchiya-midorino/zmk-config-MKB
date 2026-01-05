@@ -40,10 +40,10 @@ layers:
   - LEFT COMMAND
   - LEFT CONTROL
   - LALT
-  - {t: BACKSPACE, h: Num}
-  - {t: LANG1, h: NUM}
-  - {t: ENTER, h: NUM}
-  - {t: SPACE, h: Num}
+  - {t: BACKSPACE, h: NUM}
+  - {t: LANG1, h: Num}
+  - {t: ENTER, h: Num}
+  - {t: SPACE, h: NUM}
   - Gui+Sft+4
   - DOWN
   - RIGHT
@@ -99,8 +99,8 @@ layers:
   - Gui+Sft+DELETE
   - DOLLAR
   - LALT
-  - F11
-  - {t: F12, type: held}
+  - {t: F11, type: held}
+  - F12
   - UNDER
   - '0'
   - PERIOD
@@ -158,8 +158,8 @@ layers:
   - {t: ▽, type: trans}
   - ENTER
   - ENTER
-  - {t: ENTER, type: held}
   - ENTER
+  - {t: ENTER, type: held}
   - ENTER
   - ENTER
   - {t: ▽, type: trans}
