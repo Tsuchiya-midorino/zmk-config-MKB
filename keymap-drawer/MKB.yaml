@@ -45,8 +45,8 @@ layers:
   - {t: ENTER, h: Arr}
   - {t: SPACE, h: NUM}
   - Gui+Sft+4
-  - DOWN
-  - RIGHT
+  - '&kakko'
+  - '&kagikakko'
   - LEFT
   - UP
   - SPACE
