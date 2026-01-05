@@ -24,7 +24,7 @@ layers:
   - K
   - L
   - MINUS
-  - {t: ENTER, h: Mouse}
+  - ENTER
   - LSHFT
   - Z
   - X
@@ -201,7 +201,7 @@ layers:
   - '&mkp MB3'
   - '&mkp MB2'
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
