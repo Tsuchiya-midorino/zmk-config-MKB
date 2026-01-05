@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: MKB}
 layers:
   Def:
-  - TAB
+  - ESCAPE
   - Q
   - W
   - E
@@ -12,8 +12,8 @@ layers:
   - I
   - O
   - P
-  - BKSP
-  - {t: ESC, h: BT}
+  - BACKSPACE
+  - {t: TAB, h: BT}
   - A
   - S
   - D
@@ -23,8 +23,8 @@ layers:
   - J
   - K
   - L
-  - SEMI
-  - {t: SQT, h: Mouse}
+  - MINUS
+  - {t: ENTER, h: Mouse}
   - LSHFT
   - Z
   - X
@@ -35,16 +35,16 @@ layers:
   - M
   - COMMA
   - DOT
-  - UP
-  - FSLH
-  - {t: ESC, h: LCTL}
-  - LGUI
+  - SLASH
+  - RIGHT SHIFT
+  - LEFT COMMAND
+  - LEFT CONTROL
   - LALT
+  - {t: BACKSPACE, h: Num}
+  - {t: LANG1, h: Fnc}
+  - {t: ENTER, h: Fnc}
   - {t: SPACE, h: Num}
-  - {t: SPACE, h: Fnc}
-  - {t: SPACE, h: Fnc}
-  - {t: SPACE, h: Num}
-  - LEFT
+  - Gui+Sft+4
   - DOWN
   - RIGHT
   - LEFT
