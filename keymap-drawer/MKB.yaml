@@ -33,7 +33,7 @@ layers:
   - B
   - N
   - M
-  - COMMA
+  - {t: COMMA, h: Scr}
   - DOT
   - SLASH
   - RIGHT SHIFT
@@ -269,7 +269,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
