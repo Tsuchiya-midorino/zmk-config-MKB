@@ -36,7 +36,7 @@ layers:
   - {t: COMMA, h: Scr}
   - DOT
   - SLASH
-  - RIGHT SHIFT
+  - {t: COLON, h: RIGHT SHIFT}
   - LEFT COMMAND
   - LEFT CONTROL
   - LALT
